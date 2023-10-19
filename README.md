@@ -1,5 +1,4 @@
 # TravelBuddyFinder
-# Travel Buddy Finder
 
 Welcome to Travel Buddy Finder, your go-to platform for connecting with fellow travelers, sharing journeys, and making travel more affordable and enjoyable.
 
